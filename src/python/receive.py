@@ -1,9 +1,9 @@
 import socket
 import sys
 
-#UDP_IP = "192.168.1.107"
+UDP_IP = "192.168.1.107"
 #UDP_IP = "10.145.200.172"
-UDP_IP = "10.145.69.25"
+#UDP_IP = "10.145.69.25"
 
 UDP_PORT = 5005
 
