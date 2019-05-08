@@ -15,7 +15,7 @@ Copy the corresponding library folders (maintaining file structure) into the loc
 - ArduinoJSON
 - EasyUdp
 
-Once finished you may open the sendJSONoverUDP.ino file within in the Arduino IDE. Click compile in the top left (green check mark) to ensure the corresponding libraries have been sourced properly.
+Once finished you may open the sendJSONoverUDP.ino file within the Arduino IDE. Click compile in the top left (green check mark) to ensure the corresponding libraries have been sourced properly.
 
 And... that's it! You are ready to use the Arduino to communicate over JSON utilizing UDP.
 
